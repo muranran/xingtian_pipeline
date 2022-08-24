@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/diff_group_perf_test" />
+      <excludeFolder url="file://$MODULE_DIR$/docker" />
+      <excludeFolder url="file://$MODULE_DIR$/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/draw" />
+      <excludeFolder url="file://$MODULE_DIR$/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/experiments" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/logs2" />
+      <excludeFolder url="file://$MODULE_DIR$/logs55" />
+      <excludeFolder url="file://$MODULE_DIR$/logs530" />
+      <excludeFolder url="file://$MODULE_DIR$/logs531" />
+      <excludeFolder url="file://$MODULE_DIR$/logs552" />
+      <excludeFolder url="file://$MODULE_DIR$/logs_a1" />
+      <excludeFolder url="file://$MODULE_DIR$/logs_bf" />
+      <excludeFolder url="file://$MODULE_DIR$/logs_lock_test" />
+      <excludeFolder url="file://$MODULE_DIR$/logs_old" />
+      <excludeFolder url="file://$MODULE_DIR$/logs_with_lock" />
+      <excludeFolder url="file://$MODULE_DIR$/logsgg" />
+      <excludeFolder url="file://$MODULE_DIR$/logsllll" />
+      <excludeFolder url="file://$MODULE_DIR$/runs" />
+      <excludeFolder url="file://$MODULE_DIR$/scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/simulator" />
+      <excludeFolder url="file://$MODULE_DIR$/template" />
+      <excludeFolder url="file://$MODULE_DIR$/tests" />
+      <excludeFolder url="file://$MODULE_DIR$/train_yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/xingtian.egg-info" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote Python 3.7.11 (sftp://root@192.168.1.128:22/home/tank/miniconda3/envs/mod_xt/bin/python3) (2)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
